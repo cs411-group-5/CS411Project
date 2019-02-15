@@ -1,0 +1,22 @@
+Yelp and Spotify 
+	Our idea is to match user’s music taste to venues around the city. An example use case would be an user who are 
+  new to a city and would like to explore a city’s nightlife/cafe/etc. The user would allow us to collect information 
+  on their Spotify account and we will use their music taste from their Spotify account to determine their “match” 
+  to particular locations around the city. This match is determine based on data we get from Yelp. The two main API 
+  that would be utilise in this application would be the Spotify API and Yelp API.
+
+https://developer.spotify.com/documentation/web-api/reference/personalization/get-users-top-artists-and-tracks/
+https://developer.spotify.com/documentation/web-api/reference/follow/
+
+
+
+
+Stock trading based on Tweets about corporations’ events
+Yahoo Finance 
+	Our idea here is to combine yahoo finance data with tweets centering around corporate events to provide users with an 
+  oversight on how certain corporate events will influence stock price movements. For example, some of the largest events 
+  in the stock market each year come with earnings seasons and corporate events where new products are introduced 
+  to consumers for the first time. We want to give our users the ability to make informed trading decisions based on this 
+  data by providing them with one central application to access a schedule of corporate events, as well as relevant tweets 
+  and financial data once the event gets closer. The main Apis we will utilize are Yahoo Finance API, combined with 
+  the Twitter API and Ticketmaster API. 
