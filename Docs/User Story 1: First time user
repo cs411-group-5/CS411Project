@@ -1,0 +1,21 @@
+Action Open Application for the First Time:
+Login via Facebook
+Prompt Login on spotify page through Oauth
+If user doesn’t have Facebook account: -> Skip and sign in using Spotify
+Prompt to connect to Spotify if not already connected
+If user doesn’t have Spotify account: -> You have to have Spotify to be able to use this app. 
+Prompt for location:
+If the user doesn’t allow Location Services: Prompt them to enter the location.
+Presented with the main screen
+Map of current location with simple list of popular restaurants 
+
+A first time user arrives at the first-time flow after logging in through Facebook or Spotify Oauth. 
+If the user is registering/logging in through Facebook, the user is prompted with the Login / Connect to Spotify button. 
+If the user doesn’t have Facebook account, they are presented with the option to login through their Spotify account. 
+If the user doesn’t have the Spotify account, the app will fail and the user will be presented with the notice 
+that this application is only available for user with a Spotify account. Further setting need to be brought to 
+the user’s attention. First, the user is asked to share their location with the application. 
+
+The user can choose to enter their location instead of granting the application access to the locational service on 
+the user mobile device. After complete the first-time flow, the user is presented with the main screen and led into the 
+main flow.
