@@ -1,0 +1,23 @@
+Secondary use: Recommendations, manual entry.
+
+After a user completes their log in to utilize the app they will be have the option to manually search for new tastes 
+on the sidebar. To begin they will be presented with a map of their location and if they are not currently utilizing 
+the location services within the app they will be able to enter a location and a map will be returned. For this function 
+we want to give users the ability to find new music tastes that they previously haven't experienced before. In order to 
+do this we will provide the user with a simple search bar where they can enter different music genres to find what is 
+around them.
+
+Various locations are then presented to the user on a map allowing them to gauge what is closest and where the popular 
+areas are, with the option to switch towards a list view similar to the first recommendations. We envision there will 
+be a situation in which nothing is recommended, due to the ability to enter any music genre. Therefore, we will prompt 
+the user to redo their search. The user can then click on a specific location to get more information, as well as, a link 
+to the company's website, should it exist. If they choose to go to said location an address will be provided along with 
+other information. 
+
+Description: The primary function of this use case is to have a narrative surrounding the main use of our product. 
+We want to envision a seamless user experience, and as such, it will be integral for us to pay close attention to the 
+recommendations function. This serves to not only ensure the right information is being delivered, but that it is being 
+delivered in a way that the user can easily digest and use to make his/her life easier. 
+
+
+
