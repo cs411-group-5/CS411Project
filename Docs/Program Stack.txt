@@ -1,0 +1,10 @@
+﻿Front End: Vue
+        We decided to use Vue for our front end in order to simplify the prototyping process. We decided that this would be the best option as it is easy to follow, simple to learn, and easy to collaborate. With its integration to git as well this makes working as a team very easy. In the end we also have less code as it is more simplistic than some of the other options we considered. 
+
+
+Middleware: Node.js
+        We decided to use node.js as the middle wear as it is super easy to push to VUE and mongodb. It is also object oriented making it easy to work through all of the results without having to drastically alter data. 
+
+
+Mongodb atlas:
+        We elected to use mongodb atlas as it is easy to set up. Easily accessed from multiple locations and by multiple users. As well as the ability to continue using objects throughout our program stack. This was an easy choice as SQL wouldn’t have functioned correctly without serious development.
