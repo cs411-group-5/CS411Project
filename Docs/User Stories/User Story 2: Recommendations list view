@@ -8,4 +8,6 @@ account the user will see two main options:
  location. Nothing fancy in here, yet it should randomly invoke to 7-10 places from a much larger list of popular locations 
  in the area and update them daily. 
  
+ In both of the above options the user is able to click on the picture to get more information about potential destinations. This will allow for them to see address data, and a short description of the venue. 
 In the left sidebar menu the user can navigate between the search options, their personal account options and etc.
+
