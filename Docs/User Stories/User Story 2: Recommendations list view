@@ -1,18 +1,11 @@
 Primary use: Recommendations list view
 
 When the user is done with the login flow, they find themselves on the home page (the personal account). In their personal 
-account the user will see several jumbotrons with such options as:
- -  "Feel the vibe" - most recent recommendations based on current mood. Will be updated daily and refer the user to 
- 5-6 destinations that most precisely reflect the vibe of their latest Spotify history. 
- -  "Places around you'll love" - based on the music the user has been listening to during the last 30 days. This jumbotron 
- contains 8-10 destinations (cafes/restaurants/bars) that are likely to be attractive to the user according to their music taste. These locations should not overlap with the ones in the previous list, yet they are to be updated daily from the array (20-30 items) of preferable places. 
- -  "Music events to check out" - based on favorite genres/artists from Spotify. Our app will recommend the user 
- various musical events (taken from Facebook events). If notifications are enabled, the user will receive reminders about 
- the events they might find interesting. Each event will import the approximate amount of people and other data from Facebook 
- including ticket information.
- -  "Popular nearby" - this jumbotron presents the user with a list of cafes and bars popular among users in the current 
+account the user will see two main options:
+
+-- the main search, which will simply take your past spotify history of favorite artists and tracks, before suggesting places around your current location. 
+-  "Explore" - this jumbotron presents the user with a list of cafes and bars popular among users in the current 
  location. Nothing fancy in here, yet it should randomly invoke to 7-10 places from a much larger list of popular locations 
  in the area and update them daily. 
- -  "Recently visited" - just a queue of the locations and events visited recently to provide the user with more intuitive 
- search experience.
+ 
 In the left sidebar menu the user can navigate between the search options, their personal account options and etc.
