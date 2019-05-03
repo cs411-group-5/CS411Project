@@ -1,0 +1,3 @@
+[submodule "tu-vibe"]
+	path = tu-vibe
+	url = git@github.com:cs411-group-5/tu-vibe.git
